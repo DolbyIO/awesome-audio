@@ -82,7 +82,7 @@ Software applications, tools, and APIs you can use to solve audio-related proble
     - [Google Speech-to-Text](https://cloud.google.com/speech-to-text) - convert speech into text
 - **Apps**
     - [descript.com](https://www.descript.com/) - use transcripts to cut and edit video 
-- **Toolkit**
+- **Python**
     - [PyKaldi](https://github.com/pykaldi/pykaldi) - Python scripting layer for the Kaldi speech recognition toolkit.
 
 
@@ -216,6 +216,9 @@ Areas of experimentation and exploration for awesome algorithms.
 ## Data
 
 - [AudioSet](https://research.google.com/audioset/index.html) - large-scale dataset of manually annotated audio events with sound ontology
+- [CSTR VCTK](https://datashare.is.ed.ac.uk/handle/10283/3443) - speech data uttered by 110 English speakers with various accents reading about 400 sentences from newspapers
+- [LibriSpeech](http://www.openslr.org/12/) - text-to-speech training corpus with 1000 hours of English speech of read audiobooks from the LibriVox project
+- [Mozilla Common Voice](https://commonvoice.mozilla.org/en/datasets) - open-source, multi-language dataset of voices to train speech-enabled applications with 68 validated hours and 18 languages
 - [Netflix Open Content](https://opencontent.netflix.com/) - test titles with documentary, live action, and animation films
 - [Spoken Wikipedia Corpora](https://nats.gitlab.io/swc/) - SWC is comprised of spoken articles in multiple languages
 
