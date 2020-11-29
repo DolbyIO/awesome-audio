@@ -134,6 +134,7 @@ Social media, discussion groups, events, and audio experiences you can seek out 
 
 ## Podcasts
 
+- [Audio Programmer Podcast](https://theaudioprogrammer.com/) - all things audio programming, including DSP (digital signal processing), coding, and audio tech.
 - [Game Audio Podcast](http://www.gameaudiopodcast.com/) - aims to provide sound designers, composers, and everyone else interested in game audio a biweekly show
 - [Song Exploder](https://songexploder.net/) - music podcast where musicians take apart their songs and tell the story of how they were made
 - [Twenty Thousand Hertz](https://www.20k.org/) - the stories behind the world's most recognizable and interesting sounds
@@ -144,7 +145,9 @@ Social media, discussion groups, events, and audio experiences you can seek out 
 - [Music and Audio Professionals](https://www.linkedin.com/groups/119984/) - LinkedIn group for audio engineers, music arrangers, music composers, etc.
 - [Signal Processing StackExchange](https://dsp.stackexchange.com/) - question and answer for practioners of the art and science of signal, image, and video processing
 
+## Video Channels
 
+- [The Audio Programmer](https://www.youtube.com/theaudioprogrammer) - SOUL tutorials, JUCE tutorials, teaching audio programming for beginners, etc.
 
 ---
 
