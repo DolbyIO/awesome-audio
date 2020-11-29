@@ -27,7 +27,7 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 ## How-To Analyze Audio
 
 - **APIs**
-    - [Dolby.io Media Analyze API](https://dolby.io/product/media-processing) - services to analyze an audio file to identify codec, clipping, loudness, sound classification, silence, etc.
+    - [Dolby.io Media Analyze API](https://dolby.io/products/media-processing) - services to analyze an audio file to identify codec, clipping, loudness, sound classification, silence, etc.
 - **Apps**
     - [MATLAB DSP System Toolbox](https://www.mathworks.com/products/dsp-system.html) - application for designing, simulating, and analyzing signal processing systems
 - **Python**
@@ -36,7 +36,7 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 ## How-To Edit Audio
 
 - **APIs**
-    - [Dolby.io Media Enhance API](https://dolby.io/product/media-processing) - services to enhance media such as correcting audio impurities like noise, sibilance, equalization, tonality, loudness
+    - [Dolby.io Media Enhance API](https://dolby.io/products/media-processing) - services to enhance media such as correcting audio impurities like noise, sibilance, equalization, tonality, loudness
 - **Apps**
     - [Avid Pro Tools](https://www.avid.com/pro-tools) - music software to create audio recording, composing, editing, and mastering
     - [iZotope](https://www.izotope.com/en/products.html) - audio software for music production and post production, composing, editing, and mastering
@@ -70,7 +70,7 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 ## How-To Send Real-Time Audio
 
 - **APIs**
-    - [Dolby.io Interactivity API](https://dolby.io/product/interactivity) - services with SDKs for adding audio and video conferencing and communications
+    - [Dolby.io Interactivity API](https://dolby.io/products/interactivity) - services with SDKs for adding audio and video conferencing and communications
 - **JavaScript**
     - [WebRTC API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API) - capture and stream audio / video media between browsers without requiring an intermediary
 
