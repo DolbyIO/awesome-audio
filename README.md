@@ -210,9 +210,12 @@ Domains and use-case specific resources such as broadcasting, communications, ga
 
 ## Standards
 
+- [AES Standards](https://www.aes.org/standards/) - 2-channel digital audio, MADI, analog XLR pin-out, networked audio, etc.
 - [ATSC A/85](https://www.atsc.org/recommended-practice/a85-techniques-for-establishing-and-maintaining-audio-loudness-for-digital-television/) - Advanced Television Systems Committee (ATSC) Techniques for establishing and maintaining audio loudness for digital television
 - [EBU R.128](https://tech.ebu.ch/docs/r/r128.pdf) - European Broadcasting Union (EBU) loudness normalisation and permitted maximum level of audio signals
 - [ITU-R BS.1770](https://www.itu.int/dms_pubrec/itu-r/rec/bs/R-REC-BS.1770-4-201510-I!!PDF-E.pdf) - International Telecommunication Union (ITU) algorithms to measure audio programme loudness and true-peak audio level
+- [MPEG Advanced Audio Coding](https://mpeg.chiariglione.org/standards/mpeg-4/audio) - aac wideband perceptual audio coding algorithm that provides state of the art levels of compression for audio signals
+- [SMPTE Audio Standards](https://ieeexplore.ieee.org/browse/standards/number/smpte?queryText=audio) - collection of standards related to audio
 
 ---
 
