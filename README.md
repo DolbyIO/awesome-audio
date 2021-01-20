@@ -10,6 +10,8 @@ A curated list of awesome audio technology resources for developers
 - [Industry](#industry)
 - [Research](#research)
 
+[![Gitter](https://badges.gitter.im/DolbyIO/awesome-audio.svg)](https://gitter.im/DolbyIO/awesome-audio?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 # Code
 
 Software applications, tools, and APIs you can use to solve audio-related problems to use in your own awesome audio projects.
