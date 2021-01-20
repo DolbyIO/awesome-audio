@@ -179,9 +179,11 @@ See something missing, view the [contribute](#contribute) section and let us kno
 
 ## Journals
 
-- [Journal of the Acoustical Society of America](https://asa.scitation.org/toc/jas/current) - a monthly peer-reviewed scientific journal covering aspects of acoustics
 - [Computer Music Journal](https://www.mitpressjournals.org/loi/comj) - a peer-reviewed academic journal that covers a wide range of topics related to digital audio signal processing and electroacoustic music
+- [IEEE/ACM Transactions on Audio, Speech, and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655) - dedicated to innovative theory and methods for processing signals representing audio, speech and language, and their applications. This includes analysis, synthesis, enhancement, transformation, classification and interpretation of such signals as well as the design, development, and evaluation of associated signal processing systems
+- [Journal of the Acoustical Society of America](https://asa.scitation.org/toc/jas/current) - a monthly peer-reviewed scientific journal covering aspects of acoustics
 - [Journal of the Audio Engineering Society](https://www.aes.org/journal/) - peer-reviewed journal devoted to audio technology
+- [SMPTE Motion Imaging Journal](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=7261654) - the key publication of the Society, providing peer-reviewed articles on topics in 3D, imaging processing, display technologies, audio, compression, digitaal cinema, and much more
 
 ## Tutorials and Blogs
 
