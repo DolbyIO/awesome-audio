@@ -67,7 +67,12 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 - **Python**
     - [PyAudio](https://people.csail.mit.edu/hubert/pyaudio/#downloads) - python bindings for PortAudio to interface with audio drivers to record or playback audido (Open-Source/MIT)
 - **Swift**
-    - [AVAudioRecorder](https://developer.apple.com/documentation/avfoundation/avaudiorecorder) - class that provides audio recording capability for ios applications
+    - [AVFoundation](https://developer.apple.com/documentation/avfoundation) - framework for audiovisual assets, control devices, audio processing, and system audio interactions
+         - [AVCapture](https://developer.apple.com/documentation/avfoundation/avcapturedevice) - device, input, session, and output classes for a graph processing architecture allowing buffer analysis and processing (including video support)
+    - [AVFAudio](https://developer.apple.com/documentation/avfaudio) - foundation framework to play, record, and process audio and configure system behavior
+        - [AVAudioRecorder](https://developer.apple.com/documentation/avfoundation/avaudiorecorder) - class to record audio to a file and may be simplest when getting started
+        - [AVAudioEngine](https://developer.apple.com/documentation/avfaudio/avaudioengine) - group of audio nodes to generate and process audio signals for input and output; does not natively support video capture but highly configurable processing nodes
+    - [Audio Toolbox](https://developer.apple.com/documentation/audiotoolbox) - framework to record or play audio, convert formats, parse audio streams, and configure your audio session
 
 ## How-To Send Real-Time Audio
 
