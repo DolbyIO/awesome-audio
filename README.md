@@ -109,6 +109,7 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 Social media, discussion groups, events, and audio experiences you can seek out to increase your appreciation for awesome audio.
 
 - [Awesome Lists](#awesome-lists)
+- [Collections](#collections)
 - [Conferences and Events](#conferences-and-events)
 - [Experiences and Places](#experiences-and-places)
 - [Groups](#groups)
@@ -120,6 +121,11 @@ Social media, discussion groups, events, and audio experiences you can seek out 
 - [awesome-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio#readme) - python for scientific audio
 - [awesome-sound](https://github.com/hwclass/awesome-sound) - curated list of delightful sound packages and resources
 - [awesome-webaudio](https://github.com/notthetup/awesome-webaudio#readme) - curated list of awesome webaudio packages and resources
+
+## Collections
+
+- [Internet Archive Audio Archive](https://archive.org/details/audio) - over 14 million recordings of music, concerts, audiobooks, radio, etc.
+- [Library of Congress Audio Recordings](https://www.loc.gov/audio/) - over 20,000 audio recordings of historical or cultural significance 
 
 ## Conferences and Events
 
