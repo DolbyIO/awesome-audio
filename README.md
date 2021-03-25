@@ -1,3 +1,144 @@
+        Realtek Semiconductor Corp. High Definition Audio System Software Ver: 8351
+                        Installation and Setup
+
+version:6.0.1.8351
+Driver Installation/Removal Procedure For Realtek High Definition Audio Codec:
+=================================================================================
+
+<<< For Windows 10 x86/x64 Driver >>>
+
+---------------------------------------
+Setup Driver at first time:
+---------------------------------------
+Windows 10 :
+Step 1. Run the setup.exe program to start the installation. 
+  
+Step 2. Click on [Next] to continue the procedure. If the screen resolution is lower 
+        than 1024*768,press [Yes] to continue the installation. If the Windows popup 
+        "Windows can't verify the publisher of this driver software" message, 
+        press "Install this driver software anyway" to continue the installation.
+        
+Step 3. Finally, select to restart the system and press [Finish] to complete
+        the installation.  
+
+---------------------------------------
+Manual driver install by INF :
+---------------------------------------
+Step 1. Go to "Control Panel〃and select "Hardware and Sound".
+Step 2. Select "Device Manager" on Devices and Printers
+Step 3. Right click on the "High Definition Audio Device" of Device Manager and select "Update Driver Software" on pop up menu.
+Step 4. Select "Browse my computer for driver software" option.
+Step 5. Browse Realtek Audio driver location and press "Next" button.
+Step 6. Installing Realtek Audio driver.
+Step 7. Windows has finished installing the Realtek audio driver.
+
+---------------------------------------
+Update Driver:
+---------------------------------------
+Windows 10 :
+Step 1. Run setup.exe, it will remove the original driver in your system.
+
+Step 2. Click "Next" to remove the original audio driver in your system.
+
+Step 3. Once after the original driver removed , reboot the computer.
+
+Step 4. It will install audio driver automatically after computer restarted.
+
+---------------------------------------
+Remove Driver:
+---------------------------------------
+Windows 10 :
+Step 1. Go to Apps.
+
+Step 2. Select "Control Panel" in "Windows System"
+
+Step 3. Select [Programs and Features] icon.
+
+Step 4. Select "Realtek High Definition Audio Driver" and press [uninstall] button.
+
+Step 5. Click on [Yes] to finish the uninstallation.        
+
+Step 6. At the end of the procedure, select to restart the system and press
+        [Finish] to complete the uninstallation.
+
+---------------------------------------
+Driver uninstall in Device Manager :
+---------------------------------------
+Step 1. Go to "Control Panel〃and select "Hardware and Sound".
+Step 2. Select "Device Manager" on Devices and Printers
+Step 3. Right click on the "Realtek High Definition Audio" of Device Manager and select "Uninstall" on pop up menu.
+Step 4. Select the option "Delete the driver software for this device" and press "OK" button on dialog "Confirm Device Uninstall".
+Step 5. Reboot system.
+
+
+<< Other Information >>
+
+--------------------
+Silent Installation:
+--------------------
+
+Run "Setup.exe /s /f2<path\LogFile> /z[-rp<path\LogFile>]"
+e.g. setup.exe /s /f2c:\mylog.log /z[-rpC:\RHDSetup.log]
+
+--------------------
+Silent Uninstallation:
+--------------------
+
+Run "Setup.exe /removeonly /s /f1<path\USetup.iss> /f2<path\LogFile> /z[-rp<path\LogFile>]"
+e.g. setup.exe /removeonly /s /f1C:\AudioDriver\USetup.iss /f2c:\mylog.log /z[-rpC:\RHDSetup.log]
+
+
+---------------------
+Version Information:
+---------------------
+If driver package include below drivers :
+Win10 : --------------------------------------------------------
+Win10 driver for x64
+RTKVHD64.sys                                        : 6.0.1.8351
+
+Folder : RealtekAPO_599
+RltkAPOU64.dll                                      : 11.0.6000.599
+
+Folder : RealtekService_28
+RtCOM64.dll                                         : 3.0.0.1
+RtDataProc64.dll                                    : 2.0.0.2
+RtkApi64U.dll                                       : 1.0.1.96
+RtkAudUService64.exe                                : 1.0.0.57
+RtkCfg64.dll                                        : 1.0.0.8
+
+
+Driver Setup Program                                : 4.63
+
+
+--------
+History:
+--------
+Driver Package 8351
+    Realtek HD Audio Driver support all of Realtek HD Audio Codec .
+    1. OS Supporting: Microsoft Windows 10 - x86/x64
+    2. Add/Fix
+        1.) Driver :
+            1. Customizations.
+            2. Bug fix.
+
+
+Win10 : --------------------------------------------------------
+Win10 driver for x64
+  RTKVHD64.sys                                        : 6.0.1.8351
+
+  Folder : RealtekAPO_599
+  RltkAPOU64.dll                                      : 11.0.6000.599
+
+  Folder : RealtekService_28
+  RtCOM64.dll                                         : 3.0.0.1
+  RtDataProc64.dll                                    : 2.0.0.2
+  RtkApi64U.dll                                       : 1.0.1.96
+  RtkAudUService64.exe                                : 1.0.0.57
+  RtkCfg64.dll                                        : 1.0.0.8
+
+
+  Driver Setup Program                                : 4.63
+  
 
 # Awesome-Audio [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
