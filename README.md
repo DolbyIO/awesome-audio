@@ -46,10 +46,10 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 ## How-To Playback Audio
 
 - **Android**
-    - [AudioTrack] (https://developer.android.com/reference/android/media/AudioTrack) - Android class that streams PCM audio buffers to audio hardware for playback
-    - [ExoPlayer] (https://exoplayer.dev/) - library for local or streaming playback of audio and video 
-    - [MediaPlayer] (https://developer.android.com/reference/android/media/MediaPlayer) - class for controlling playback of a pre-existing audio or video file 
-    - [Oboe] (https://github.com/google/oboe) - C++ library that wraps OpenSL ES and AAudio for high performance audio operations
+    - [AudioTrack](https://developer.android.com/reference/android/media/AudioTrack) - Android class that streams PCM audio buffers to audio hardware for playback
+    - [ExoPlayer](https://exoplayer.dev/) - library for local or streaming playback of audio and video 
+    - [MediaPlayer](https://developer.android.com/reference/android/media/MediaPlayer) - class for controlling playback of a pre-existing audio or video file 
+    - [Oboe](https://github.com/google/oboe) - C++ library that wraps OpenSL ES and AAudio for high performance audio operations
 - **JavaScript**
     - [Cross-Browser Audio Basics](https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery/Cross-browser_audio_basics) - tutorial for creating an HTML5 audio player
 - **Python**
@@ -68,9 +68,9 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 ## How-To Record Audio
 
 - **Android**
-    - [AudioRecord] (https://developer.android.com/reference/android/media/AudioRecord) - Android class for reading buffers of raw audio data from audio hardware
-    - [MediaRecorder] (https://developer.android.com/reference/android/media/MediaRecorder) - records encoded audio or video and saves the recording to an output file 
-    - [Oboe] (https://github.com/google/oboe) - C++ library that wraps OpenSL ES and AAudio for high performance audio operations compatible across API levels
+    - [AudioRecord](https://developer.android.com/reference/android/media/AudioRecord) - Android class for reading buffers of raw audio data from audio hardware
+    - [MediaRecorder](https://developer.android.com/reference/android/media/MediaRecorder) - records encoded audio or video and saves the recording to an output file 
+    - [Oboe](https://github.com/google/oboe) - C++ library that wraps OpenSL ES and AAudio for high performance audio operations compatible across API levels
 - **JavaScript**
     - [MediaRecorder](https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder) - Web API for processing a stream of media content such as audio tracks
     - [react-mic](https://hackingbeauty.github.io/react-mic/) - javascript / react library to record audio cross-platform
