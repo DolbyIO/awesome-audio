@@ -94,10 +94,10 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 ## How-To Transcribe Audio
 
 - **APIs**
-    - [Symbl.ai Transcription over WebSockets](https://docs.symbl.ai/docs/streamingapi/tutorials/receive-ai-insights-from-your-web-browser) - speech to text
     - [AWS Transcribe](https://aws.amazon.com/transcribe/) - speech to text capabilities
     - [Azure Speech-to-Text](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/) - transcribe audio to text
     - [Google Speech-to-Text](https://cloud.google.com/speech-to-text) - convert speech into text
+    - [Symbl.ai Transcription over WebSockets](https://docs.symbl.ai/docs/streamingapi/tutorials/receive-ai-insights-from-your-web-browser) - speech to text
 - **Apps**
     - [descript.com](https://www.descript.com/) - use transcripts to cut and edit video
 - **Python**
@@ -165,8 +165,8 @@ Social media, discussion groups, events, and audio experiences you can seek out 
 
 ## Social Forums
 
-- [r/audioengineering](https://www.reddit.com/r/audioengineering/) - products, practices, and stories about the profession or hobby of recording, editing, and producing audio
 - [Music and Audio Professionals](https://www.linkedin.com/groups/119984/) - LinkedIn group for audio engineers, music arrangers, music composers, etc.
+- - [r/audioengineering](https://www.reddit.com/r/audioengineering/) - products, practices, and stories about the profession or hobby of recording, editing, and producing audio
 - [Signal Processing StackExchange](https://dsp.stackexchange.com/) - question and answer for practioners of the art and science of signal, image, and video processing
 
 ## Video Channels
@@ -196,8 +196,8 @@ See something missing, view the [contribute](#contribute) section and let us kno
 
 - [Audio Signal Processing](https://www.coursera.org/learn/audio-signal-processing) - audio signal methodologies for music.  Topics include: spectral processing techniques, transformation of sounds, analyze, synthesize, transform audio signals, python (Coursera)
 - [Digital Media Foundations](https://www.linkedin.com/learning/digital-media-foundations?u=2056892) - Audio Made Simple.  Topics include creating space with channels, measuring power of sound, capturing tone as frequency, phase.  (LinkedIn Learning)
+- - [Communication Acoustics](https://www.edx.org/course/communication-acoustics) - This is a comprehensive course starting from the basics: what is sound, how it propagates and prepares us gradually to learn about the human auditory system, psychoacoustics(connecting the physical world to how we perceive sounds), speech acoustics(human speech production system) and finally electroacoustics(the world of loud speakers and microphones)(Edx)
 - [Fundamentals of Audio and Music Engineering](https://www.coursera.org/learn/audio-engineering) - basic concepts of acoustics and electronics and how they can be applied to understanding musical sound and make music with electronic instruments.  Topics include: sound waves, musical sound, basic electronics, and applications of these basic principles in amplifiers and speaker design (Coursera)
-- [Communication Acoustics](https://www.edx.org/course/communication-acoustics) - This is a comprehensive course starting from the basics: what is sound, how it propagates and prepares us gradually to learn about the human auditory system, psychoacoustics(connecting the physical world to how we perceive sounds), speech acoustics(human speech production system) and finally electroacoustics(the world of loud speakers and microphones)(Edx)
 
 ## Journals
 
