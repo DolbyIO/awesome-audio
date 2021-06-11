@@ -47,8 +47,8 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 
 - **Android**
     - [AudioTrack](https://developer.android.com/reference/android/media/AudioTrack) - Android class that streams PCM audio buffers to audio hardware for playback
-    - [ExoPlayer](https://exoplayer.dev/) - library for local or streaming playback of audio and video 
-    - [MediaPlayer](https://developer.android.com/reference/android/media/MediaPlayer) - class for controlling playback of a pre-existing audio or video file 
+    - [ExoPlayer](https://exoplayer.dev/) - library for local or streaming playback of audio and video
+    - [MediaPlayer](https://developer.android.com/reference/android/media/MediaPlayer) - class for controlling playback of a pre-existing audio or video file
     - [Oboe](https://github.com/google/oboe) - C++ library that wraps OpenSL ES and AAudio for high performance audio operations
 - **JavaScript**
     - [Cross-Browser Audio Basics](https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery/Cross-browser_audio_basics) - tutorial for creating an HTML5 audio player
@@ -69,7 +69,7 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 
 - **Android**
     - [AudioRecord](https://developer.android.com/reference/android/media/AudioRecord) - Android class for reading buffers of raw audio data from audio hardware
-    - [MediaRecorder](https://developer.android.com/reference/android/media/MediaRecorder) - records encoded audio or video and saves the recording to an output file 
+    - [MediaRecorder](https://developer.android.com/reference/android/media/MediaRecorder) - records encoded audio or video and saves the recording to an output file
     - [Oboe](https://github.com/google/oboe) - C++ library that wraps OpenSL ES and AAudio for high performance audio operations compatible across API levels
 - **JavaScript**
     - [MediaRecorder](https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder) - Web API for processing a stream of media content such as audio tracks
@@ -94,11 +94,12 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 ## How-To Transcribe Audio
 
 - **APIs**
+    - [Symbl.ai Transcription over WebSockets](https://docs.symbl.ai/docs/streamingapi/tutorials/receive-ai-insights-from-your-web-browser) - speech to text
     - [AWS Transcribe](https://aws.amazon.com/transcribe/) - speech to text capabilities
     - [Azure Speech-to-Text](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/) - transcribe audio to text
     - [Google Speech-to-Text](https://cloud.google.com/speech-to-text) - convert speech into text
 - **Apps**
-    - [descript.com](https://www.descript.com/) - use transcripts to cut and edit video 
+    - [descript.com](https://www.descript.com/) - use transcripts to cut and edit video
 - **Python**
     - [PyKaldi](https://github.com/pykaldi/pykaldi) - Python scripting layer for the Kaldi speech recognition toolkit.
 
@@ -135,7 +136,7 @@ Social media, discussion groups, events, and audio experiences you can seek out 
 ## Collections
 
 - [Internet Archive Audio Archive](https://archive.org/details/audio) - over 14 million recordings of music, concerts, audiobooks, radio, etc.
-- [Library of Congress Audio Recordings](https://www.loc.gov/audio/) - over 20,000 audio recordings of historical or cultural significance 
+- [Library of Congress Audio Recordings](https://www.loc.gov/audio/) - over 20,000 audio recordings of historical or cultural significance
 
 ## Conferences and Events
 
