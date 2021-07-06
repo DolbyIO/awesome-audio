@@ -63,7 +63,6 @@ Software applications, tools, and APIs you can use to solve audio-related proble
     - [Cross-Browser Audio Basics](https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery/Cross-browser_audio_basics) - tutorial for creating an HTML5 audio player
 - **Python**
     - [PyAudio](https://people.csail.mit.edu/hubert/pyaudio/#downloads) - python bindings for PortAudio to interface with audio drivers to record or playback audido (Open-Source/MIT)
-- **CLI**
 
 
 ## How-To Read and Write Audio Files
