@@ -72,6 +72,7 @@ Software applications, tools, and APIs you can use to solve audio-related proble
     - [GStreamer](https://gstreamer.freedesktop.org/) - library for constructing graphs of media-handling components
     - [mpv](https://mpv.io/) - mpv is a free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types.
     - [VLC](https://www.videolan.org/) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
+    - [Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
     - [Sound eXchange](http://sox.sourceforge.net/) - SoX is billed as the swiss army knife of sound processing programs
 - **Python**
     - [pyAV](http://docs.mikeboers.com/pyav/) - python bindings for ffmpeg to access media via containers, streams, packets, codecs, and frames
@@ -232,6 +233,7 @@ See something missing, view the [contribute](#contribute) section and let us kno
 - [Designing Sound](https://designingsound.org/category/tutorials/) - tutorials on the art & technique of sound design
 - [ProAudioGirl](https://apriltucker.com/blog/) - Amy Tucker's blog covering audio for filmmakers, dialog editing basics, hacks & tricks, etc.
 - [The Ear Training Guide for Audio Producers](https://training.npr.org/2017/01/31/the-ear-training-guide-for-audio-producers/) - NPR training guide to help identify problematic audio and prevent most common problems
+- [Using ffmpeg to manipulate audio and video files](http://howto-pages.org/ffmpeg/) - How to tame the "Swiss army knife" of audio and video manipulation…
 
 ---
 
