@@ -132,6 +132,7 @@ Social media, discussion groups, events, and audio experiences you can seek out 
 - [awesome-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio#readme) - python for scientific audio
 - [awesome-sound](https://github.com/hwclass/awesome-sound) - curated list of delightful sound packages and resources
 - [awesome-webaudio](https://github.com/notthetup/awesome-webaudio#readme) - curated list of awesome webaudio packages and resources
+- [awesome-diarization](https://github.com/wq2012/awesome-diarization) - curated list of speaker diarization papers, libraries, datasets, and other resources
 
 ## Collections
 
@@ -253,6 +254,7 @@ Areas of experimentation and exploration for awesome algorithms.
 - [Mozilla Common Voice](https://commonvoice.mozilla.org/en/datasets) - open-source, multi-language dataset of voices to train speech-enabled applications with 68 validated hours and 18 languages
 - [Netflix Open Content](https://opencontent.netflix.com/) - test titles with documentary, live action, and animation films
 - [Spoken Wikipedia Corpora](https://nats.gitlab.io/swc/) - SWC is comprised of spoken articles in multiple languages
+- [Voice Datasets](https://github.com/jim-schwoebel/voice_datasets) - A comprehensive list of open source voice and music datasets.
 
 ---
 
