@@ -108,6 +108,7 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 - **Local**
     - [PulseAudio](https://www.freedesktop.org/wiki/Software/PulseAudio/) - PulseAudio is a sound server system for POSIX OSes
     - [JACK](https://jackaudio.org/) - JACK Audio Connection Kit is a professional sound server API and pair of daemon implementations to provide real-time, low-latency connections for both audio and MIDI data between applications
+    - [Loopback](https://rogueamoeba.com/loopback/) - Cable-free audio routing for Mac
 
 ## How-To Transcribe Audio
 
