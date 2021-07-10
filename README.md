@@ -42,6 +42,15 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 - **Apps**
     - [Avid Pro Tools](https://www.avid.com/pro-tools) - music software to create audio recording, composing, editing, and mastering
     - [iZotope](https://www.izotope.com/en/products.html) - audio software for music production and post production, composing, editing, and mastering
+    - [FL Studio](https://www.image-line.com/) - DAW for MacOS and Windows
+    - [Ableton Live](https://www.ableton.com/en/live/) - DAW for MacOS and Windows
+    - [Logic Pro](https://www.apple.com/logic-pro/) - Logic Pro is a digital audio workstation and MIDI sequencer software application for  macOS
+    - [Garageband](https://www.apple.com/mac/garageband/) - Free tool for MacOS users to record and edit audio
+    - [Audacity](https://www.audacityteam.org/) - Audacity is a free and open-source digital audio editor and recording application software
+    - [Reaper](https://www.reaper.fm/) - Propietary cross platform DAW
+    - [Bitwig Studio](https://www.bitwig.com/) - Cross Platform DAW made by ex-Ableton employees
+    - [Ardour](https://ardour.org/) - Ardour is a hard disk recorder and digital audio workstation application that runs on Linux, macOS, FreeBSD and Microsoft Windows.
+    - [LMMS](https://lmms.io/) - free, open source, cross platform DAW
 
 ## How-To Playback Audio
 
@@ -59,7 +68,11 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 ## How-To Read and Write Audio Files
 
 - **CLI**
+    - [ffmpeg](http://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video.
     - [GStreamer](https://gstreamer.freedesktop.org/) - library for constructing graphs of media-handling components
+    - [mpv](https://mpv.io/) - mpv is a free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types.
+    - [VLC](https://www.videolan.org/) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
+    - [Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
     - [Sound eXchange](http://sox.sourceforge.net/) - SoX is billed as the swiss army knife of sound processing programs
 - **Python**
     - [pyAV](http://docs.mikeboers.com/pyav/) - python bindings for ffmpeg to access media via containers, streams, packets, codecs, and frames
@@ -83,6 +96,8 @@ Software applications, tools, and APIs you can use to solve audio-related proble
         - [AVAudioRecorder](https://developer.apple.com/documentation/avfoundation/avaudiorecorder) - class to record audio to a file and may be simplest when getting started
         - [AVAudioEngine](https://developer.apple.com/documentation/avfaudio/avaudioengine) - group of audio nodes to generate and process audio signals for input and output; does not natively support video capture but highly configurable processing nodes
     - [Audio Toolbox](https://developer.apple.com/documentation/audiotoolbox) - framework to record or play audio, convert formats, parse audio streams, and configure your audio session
+- ** Windows**
+    - [Core Audio APIS](https://docs.microsoft.com/en-us/windows/win32/coreaudio/core-audio-apis-in-windows-vista)
 
 ## How-To Send Real-Time Audio
 
@@ -90,6 +105,11 @@ Software applications, tools, and APIs you can use to solve audio-related proble
     - [Dolby.io Interactivity API](https://dolby.io/products/interactivity) - services with SDKs for adding audio and video conferencing and communications
 - **JavaScript**
     - [WebRTC API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API) - capture and stream audio / video media between browsers without requiring an intermediary
+- **Local**
+    - [PulseAudio](https://www.freedesktop.org/wiki/Software/PulseAudio/) - PulseAudio is a sound server system for POSIX OSes
+    - [JACK](https://jackaudio.org/) - JACK Audio Connection Kit is a professional sound server API and pair of daemon implementations to provide real-time, low-latency connections for both audio and MIDI data between applications
+    - [Loopback](https://rogueamoeba.com/loopback/) - Cable-free audio routing for Mac
+    - [Soundflower](https://github.com/mattingalls/Soundflower) - MacOS system extension that allows applications to pass audio to other applications.
 
 ## How-To Transcribe Audio
 
@@ -98,8 +118,11 @@ Software applications, tools, and APIs you can use to solve audio-related proble
     - [Azure Speech-to-Text](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/) - transcribe audio to text
     - [Google Speech-to-Text](https://cloud.google.com/speech-to-text) - convert speech into text
     - [Symbl.ai Transcription over WebSockets](https://docs.symbl.ai/docs/streamingapi/tutorials/receive-ai-insights-from-your-web-browser) - speech to text
+    - [Rev](https://www.rev.com/speech-to-text-apis) - Convert Audio & Video To Text
+    - [Speechmatics](https://app.speechmatics.com/api-details) - Speechmatics offer a secure REST API that enables you to programatically upload audio files for processing with our different products and download the resulting transcriptions.
 - **Apps**
     - [descript.com](https://www.descript.com/) - use transcripts to cut and edit video
+    - [Otter.ai](https://otter.ai/login) - Generate rich notes for meetings, interviews, lectures, and other important voice conversations
 - **Python**
     - [PyKaldi](https://github.com/pykaldi/pykaldi) - Python scripting layer for the Kaldi speech recognition toolkit.
 
@@ -213,6 +236,7 @@ See something missing, view the [contribute](#contribute) section and let us kno
 - [Designing Sound](https://designingsound.org/category/tutorials/) - tutorials on the art & technique of sound design
 - [ProAudioGirl](https://apriltucker.com/blog/) - Amy Tucker's blog covering audio for filmmakers, dialog editing basics, hacks & tricks, etc.
 - [The Ear Training Guide for Audio Producers](https://training.npr.org/2017/01/31/the-ear-training-guide-for-audio-producers/) - NPR training guide to help identify problematic audio and prevent most common problems
+- [Using ffmpeg to manipulate audio and video files](http://howto-pages.org/ffmpeg/) - How to tame the "Swiss army knife" of audio and video manipulation…
 
 ---
 
