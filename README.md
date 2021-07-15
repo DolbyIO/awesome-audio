@@ -250,6 +250,7 @@ Areas of experimentation and exploration for awesome algorithms.
 
 - [AudioSet](https://research.google.com/audioset/index.html) - large-scale dataset of manually annotated audio events with sound ontology
 - [CSTR VCTK](https://datashare.is.ed.ac.uk/handle/10283/3443) - speech data uttered by 110 English speakers with various accents reading about 400 sentences from newspapers
+- [Freesound](https://freesound.org/) - Freesound is a collaborative database of Creative Commons Licensed sounds.
 - [LibriSpeech](http://www.openslr.org/12/) - text-to-speech training corpus with 1000 hours of English speech of read audiobooks from the LibriVox project
 - [Mozilla Common Voice](https://commonvoice.mozilla.org/en/datasets) - open-source, multi-language dataset of voices to train speech-enabled applications with 68 validated hours and 18 languages
 - [Netflix Open Content](https://opencontent.netflix.com/) - test titles with documentary, live action, and animation films
