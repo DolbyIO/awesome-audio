@@ -96,7 +96,7 @@ Software applications, tools, and APIs you can use to solve audio-related proble
         - [AVAudioRecorder](https://developer.apple.com/documentation/avfoundation/avaudiorecorder) - class to record audio to a file and may be simplest when getting started
         - [AVAudioEngine](https://developer.apple.com/documentation/avfaudio/avaudioengine) - group of audio nodes to generate and process audio signals for input and output; does not natively support video capture but highly configurable processing nodes
     - [Audio Toolbox](https://developer.apple.com/documentation/audiotoolbox) - framework to record or play audio, convert formats, parse audio streams, and configure your audio session
-- ** Windows**
+- **Windows**
     - [Core Audio APIS](https://docs.microsoft.com/en-us/windows/win32/coreaudio/core-audio-apis-in-windows-vista)
 
 ## How-To Send Real-Time Audio
@@ -135,6 +135,17 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 - **JavaScript**
     - [Wavesurfer](https://wavesurfer-js.org/) - a customizable audio waveform visualization built on Web Audio API; supporting spectrograms and other features
 
+## Audio Plugin Development Tools
+- [JUCE](https://juce.com/) - JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.
+    - [react-juce](https://docs.react-juce.dev/) - React-JUCE is a hybrid JavaScript/C++ framework that enables a React.js frontend for a JUCE application or plugin.
+- [iPlug2](https://iplug2.github.io/) - iPlug 2 is a simple-to-use C++ framework for developing cross platform audio plug-ins/apps and targeting multiple plug-in APIs with the same minimalistic code.
+- [AudioKit](https://audiokit.io/) - AudioKit is an entire audio development ecosystem of code repositories, packages, libraries, algorithms, applications, playgorunds, tests, and scripts, built and used by a community of audio programmers, app developers, engineers, researchers, scientists, musicians, gamers, and people new to programming.
+- [Plug'n Script](https://www.bluecataudio.com/Products/Product_PlugNScript/) - Blue Cat's Plug'n Script is an audio and MIDI scripting plug-in and application that can be programmed to build custom effects or virtual instruments, without quitting your favorite DAW software.
+- [Faust](https://faust.grame.fr/) - Faust (Functional Audio Stream) is a functional programming language for sound synthesis and audio processing with a strong focus on the design of synthesizers, musical instruments, audio effects, etc. Faust targets high-performance signal processing applications and audio plug-ins for a variety of platforms and standards.
+- [SOUL](https://soul.dev/) - The SOUL project is creating a new language and infrastructure for writing and deploying audio code. It aims to unlock improvements in latency, performance, portability and ease-of-development that aren't possible with the current mainstream techniques that are being used.
+- [Max](https://cycling74.com/products/max) - Max is an infinitely flexible space to create your own interactive software
+
+
 
 ---
 
@@ -167,6 +178,7 @@ Social media, discussion groups, events, and audio experiences you can seek out 
 - [Audio Developers Conference](https://audio.dev/) - ADC is an annual event celebrating audio development technologies from music applications and game audio to audio processing andd embedded systems.  ADC's mission is to help attendees acquire and develop new skills.
 - [Demuxed](https://demuxed.com/) - video-tech community event for technical topics related to video technology
 - [KrankyGeek](https://www.krankygeek.com/) - annual event for WebRTC technology used for real time communications in a web browser
+- [Web Audio Conference](https://webaudioconf.com/) - WAC is an international conference dedicated to web audio technologies and applications. The conference addresses academic research, artistic research, development, design, evaluation and standards concerned with emerging audio-related web technologies such as Web Audio API, Web RTC, WebSockets and Javascript.
 
 ## Experiences and Places
 
@@ -192,6 +204,7 @@ Social media, discussion groups, events, and audio experiences you can seek out 
 - [Music and Audio Professionals](https://www.linkedin.com/groups/119984/) - LinkedIn group for audio engineers, music arrangers, music composers, etc.
 - - [r/audioengineering](https://www.reddit.com/r/audioengineering/) - products, practices, and stories about the profession or hobby of recording, editing, and producing audio
 - [Signal Processing StackExchange](https://dsp.stackexchange.com/) - question and answer for practioners of the art and science of signal, image, and video processing
+- [The Audio Programmer Discord](https://theaudioprogrammer.com/community/) - We invite you to the Audio Programmer community, where you can connect with other audio programmers, ask questions about coding and choosing the right career path, find job opportunities and more!  
 
 ## Video Channels
 
