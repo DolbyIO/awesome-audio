@@ -206,6 +206,11 @@ Social media, discussion groups, events, and audio experiences you can seek out 
 - [Signal Processing StackExchange](https://dsp.stackexchange.com/) - question and answer for practioners of the art and science of signal, image, and video processing
 - [The Audio Programmer Discord](https://theaudioprogrammer.com/community/) - We invite you to the Audio Programmer community, where you can connect with other audio programmers, ask questions about coding and choosing the right career path, find job opportunities and more!  
 
+## Social Networks
+
+- [Display](https://www.displaysocial.com/) - social platform for creators
+- [Lava](https://joinlava.com) - social network for audio
+
 ## Video Channels
 
 - [The Audio Programmer](https://www.youtube.com/theaudioprogrammer) - SOUL tutorials, JUCE tutorials, teaching audio programming for beginners, etc.
