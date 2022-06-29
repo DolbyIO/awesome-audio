@@ -45,6 +45,7 @@ Software applications, tools, and APIs you can use to solve audio-related proble
     - [iZotope](https://www.izotope.com/en/products.html) - audio software for music production and post production, composing, editing, and mastering
     - [FL Studio](https://www.image-line.com/) - DAW for MacOS and Windows
     - [Ableton Live](https://www.ableton.com/en/live/) - DAW for MacOS and Windows
+    - [Nuendo](https://www.steinberg.net/nuendo/) - DAW for MacOS and Windows that has support for Dolby Atmos and other forms of spatial audio
     - [Logic Pro](https://www.apple.com/logic-pro/) - Logic Pro is a digital audio workstation and MIDI sequencer software application for  macOS
     - [Garageband](https://www.apple.com/mac/garageband/) - Free tool for MacOS users to record and edit audio
     - [Audacity](https://www.audacityteam.org/) - Audacity is a free and open-source digital audio editor and recording application software
@@ -196,6 +197,7 @@ Social media, discussion groups, events, and audio experiences you can seek out 
 ## Podcasts
 
 - [Audio Programmer Podcast](https://theaudioprogrammer.com/) - all things audio programming, including DSP (digital signal processing), coding, and audio tech.
+- [Dissect](https://dissectpodcast.com/) - Long form music analysis of albums that goes track by track discussing music theory and artist intention
 - [Game Audio Podcast](http://www.gameaudiopodcast.com/) - aims to provide sound designers, composers, and everyone else interested in game audio a biweekly show
 - [Song Exploder](https://songexploder.net/) - music podcast where musicians take apart their songs and tell the story of how they were made
 - [Twenty Thousand Hertz](https://www.20k.org/) - the stories behind the world's most recognizable and interesting sounds
@@ -280,6 +282,7 @@ Domains and use-case specific resources such as broadcasting, communications, ga
 - [ATSC A/85](https://www.atsc.org/recommended-practice/a85-techniques-for-establishing-and-maintaining-audio-loudness-for-digital-television/) - Advanced Television Systems Committee (ATSC) Techniques for establishing and maintaining audio loudness for digital television
 - [EBU R.128](https://tech.ebu.ch/docs/r/r128.pdf) - European Broadcasting Union (EBU) loudness normalisation and permitted maximum level of audio signals
 - [ITU-R BS.1770](https://www.itu.int/dms_pubrec/itu-r/rec/bs/R-REC-BS.1770-4-201510-I!!PDF-E.pdf) - International Telecommunication Union (ITU) algorithms to measure audio programme loudness and true-peak audio level
+- [ITU-R BS.2159-7](https://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-BS.2159-7-2015-PDF-E.pdf) - International Telecommunications Union (ITU) multi-channel speaker configurations for home and broadcast applications
 - [MPEG Advanced Audio Coding](https://mpeg.chiariglione.org/standards/mpeg-4/audio) - aac wideband perceptual audio coding algorithm that provides state of the art levels of compression for audio signals
 - [SMPTE Audio Standards](https://ieeexplore.ieee.org/browse/standards/number/smpte?queryText=audio) - collection of standards related to audio
 
