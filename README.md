@@ -107,6 +107,7 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 
 - **APIs**
     - [Dolby.io Communications API](https://dolby.io/products/voice-call/) - services with SDKs for adding audio and video conferencing and communications
+    - [Dolby.io Streaming API](https://dolby.io/products/live-streaming/) - Millicast, acquired by Dolby, is now part of the Dolby.io platform. Millicast is a WebRTC-based real-time streaming service that enables sub-second latency, broadcast-quality color and sound, global scale, and end-to-end encryption
 - **JavaScript**
     - [WebRTC API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API) - capture and stream audio / video media between browsers without requiring an intermediary
     - [HLS Streaming](https://developer.apple.com/streaming/) - HLS lets you deploy content using ordinary web servers and content delivery networks. HLS is designed for reliability and dynamically adapts to network conditions by optimizing playback for the available speed of wired and wireless connections.
