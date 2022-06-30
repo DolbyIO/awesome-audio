@@ -29,7 +29,7 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 ## How-To Analyze Audio
 
 - **APIs**
-    - [Dolby.io Media Analyze API](https://dolby.io/products/media-processing) - services to analyze an audio file to identify codec, clipping, loudness, sound classification, silence, etc.
+    - [Dolby.io Media Analyze API](https://dolby.io/products/analyze/) - services to analyze an audio file to identify codec, clipping, loudness, sound classification, silence, etc. Also has options force Speech, and Diagnostics.
 - **Apps**
     - [MATLAB DSP System Toolbox](https://www.mathworks.com/products/dsp-system.html) - application for designing, simulating, and analyzing signal processing systems
 - **Python**
@@ -39,7 +39,9 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 ## How-To Edit Audio
 
 - **APIs**
-    - [Dolby.io Media Enhance API](https://dolby.io/products/media-processing) - services to enhance media such as correcting audio impurities like noise, sibilance, equalization, tonality, loudness
+    - [Dolby.io Media Enhance API](https://dolby.io/products/enhance/) - services to enhance media such as correcting audio impurities like noise, sibilance, equalization, tonality, loudness
+    - [Dolby.io Media Transcode API](https://dolby.io/products/transcode/) - Convert and assemble content that looks and sounds great no matter the device or where it’s viewed. With support for high resolution, high frame rates, and web and streaming formats.
+    - [Dolby.io Media Music Mastering API](https://dolby.io/products/music-mastering/) - Get professional-sounding audio masters that keep your creative intent intact with the powerful Music Mastering API from Dolby.io — the result of thousands of hours of musical analysis.
 - **Apps**
     - [Avid Pro Tools](https://www.avid.com/pro-tools) - music software to create audio recording, composing, editing, and mastering
     - [iZotope](https://www.izotope.com/en/products.html) - audio software for music production and post production, composing, editing, and mastering
@@ -104,14 +106,17 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 ## How-To Send Real-Time Audio
 
 - **APIs**
-    - [Dolby.io Interactivity API](https://dolby.io/products/interactivity) - services with SDKs for adding audio and video conferencing and communications
+    - [Dolby.io Communications API](https://dolby.io/products/voice-call/) - services with SDKs for adding audio and video conferencing and communications
+    - [Dolby.io Streaming API](https://dolby.io/products/live-streaming/) - Millicast, acquired by Dolby, is now part of the Dolby.io platform. Millicast is a WebRTC-based real-time streaming service that enables sub-second latency, broadcast-quality color and sound, global scale, and end-to-end encryption
 - **JavaScript**
     - [WebRTC API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API) - capture and stream audio / video media between browsers without requiring an intermediary
+    - [HLS Streaming](https://developer.apple.com/streaming/) - HLS lets you deploy content using ordinary web servers and content delivery networks. HLS is designed for reliability and dynamically adapts to network conditions by optimizing playback for the available speed of wired and wireless connections.
 - **Local**
     - [PulseAudio](https://www.freedesktop.org/wiki/Software/PulseAudio/) - PulseAudio is a sound server system for POSIX OSes
     - [JACK](https://jackaudio.org/) - JACK Audio Connection Kit is a professional sound server API and pair of daemon implementations to provide real-time, low-latency connections for both audio and MIDI data between applications
     - [Loopback](https://rogueamoeba.com/loopback/) - Cable-free audio routing for Mac
     - [Soundflower](https://github.com/mattingalls/Soundflower) - MacOS system extension that allows applications to pass audio to other applications.
+    - [BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern MacOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
 
 ## How-To Transcribe Audio
 
@@ -120,8 +125,13 @@ Software applications, tools, and APIs you can use to solve audio-related proble
     - [Azure Speech-to-Text](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/) - transcribe audio to text
     - [Google Speech-to-Text](https://cloud.google.com/speech-to-text) - convert speech into text
     - [Symbl.ai Transcription over WebSockets](https://docs.symbl.ai/docs/streamingapi/tutorials/receive-ai-insights-from-your-web-browser) - speech to text
-    - [Rev](https://www.rev.com/speech-to-text-apis) - Convert Audio & Video To Text
+    - [Rev](https://www.rev.com/speech-to-text-apis) - Convert Audio & Video To Text worked on by humans
+        - [rev.ai](https://www.rev.ai/) - AI branch of Rev.com
     - [Speechmatics](https://app.speechmatics.com/api-details) - Speechmatics offer a secure REST API that enables you to programatically upload audio files for processing with our different products and download the resulting transcriptions.
+    - [Deepgram](https://deepgram.com/) - Build better voice applications with faster, more accurate transcription through AI Speech Recognition.
+    - [Picovoice](https://picovoice.ai/) - Picovoice is the end-to-end platform for adding voice to anything on your terms.
+    - [sonix](https://sonix.ai/) - Automated transcription in 35+ languages.
+    - [fireflies.ai](https://fireflies.ai/) - Process audio, generate transcripts, and extract actionable data.
 - **Apps**
     - [descript.com](https://www.descript.com/) - use transcripts to cut and edit video
     - [Otter.ai](https://otter.ai/login) - Generate rich notes for meetings, interviews, lectures, and other important voice conversations
