@@ -40,7 +40,7 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 
 - **APIs**
     - [Dolby.io Media Enhance API](https://dolby.io/products/enhance/) - services to enhance media such as correcting audio impurities like noise, sibilance, equalization, tonality, loudness
-    - [Dolby.io Media Transcode API](https://dolby.io/products/enhance/) - Convert and assemble content that looks and sounds great no matter the device or where it’s viewed. With support for high resolution, high frame rates, and web and streaming formats.
+    - [Dolby.io Media Transcode API](https://dolby.io/products/transcode/) - Convert and assemble content that looks and sounds great no matter the device or where it’s viewed. With support for high resolution, high frame rates, and web and streaming formats.
     - [Dolby.io Media Music Mastering API](https://dolby.io/products/music-mastering/) - Get professional-sounding audio masters that keep your creative intent intact with the powerful Music Mastering API from Dolby.io — the result of thousands of hours of musical analysis.
 - **Apps**
     - [Avid Pro Tools](https://www.avid.com/pro-tools) - music software to create audio recording, composing, editing, and mastering
@@ -119,7 +119,7 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 
 ## How-To Transcribe Audio
 
-- **APIs** 
+- **APIs**
     - [AWS Transcribe](https://aws.amazon.com/transcribe/) - speech to text capabilities
     - [Azure Speech-to-Text](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/) - transcribe audio to text
     - [Google Speech-to-Text](https://cloud.google.com/speech-to-text) - convert speech into text
