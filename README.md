@@ -138,6 +138,7 @@ Transcription solutions...
     - [Picovoice](https://picovoice.ai/) - Picovoice is the end-to-end platform for adding voice to anything on your terms.
     - [sonix](https://sonix.ai/) - Automated transcription in 35+ languages.
     - [fireflies.ai](https://fireflies.ai/) - Process audio, generate transcripts, and extract actionable data.
+    - [AssemblyAI](https://www.assemblyai.com/) - Transcribe and understand audio with a single AI-powered API
 - **Apps**
     - [descript.com](https://www.descript.com/) - use transcripts to cut and edit video
     - [Otter.ai](https://otter.ai/login) - Generate rich notes for meetings, interviews, lectures, and other important voice conversations
@@ -149,6 +150,10 @@ Transcription solutions...
 Speech synthesis solutions...
 
 - [Aflorithmic API.audio](https://www.api.audio/) - Simple APIs to transform text to speech, add sound design and make it sound beautiful at scale.
+- [Amazon Polly](https://aws.amazon.com/polly/) -  Turn text into lifelike speech using deep learning
+- [Google Cloud Text to Speech](https://cloud.google.com/text-to-speech) - Convert text into natural-sounding speech using an API powered by the best of Google’s AI technologies.
+- [Azure Text to Speech](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/) - A Speech service feature that converts text to lifelike speech
+- [IBM Watson Text to Speech](https://www.ibm.com/cloud/watson-text-to-speech) - Convert text into natural-sounding speech in a variety of languages and voices
 
 ## How-To Visualize Audio
 
