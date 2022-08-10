@@ -84,6 +84,8 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 
 ## How-To Record Audio
 
+Audio capture solutions...
+
 - **Android**
     - [AudioRecord](https://developer.android.com/reference/android/media/AudioRecord) - Android class for reading buffers of raw audio data from audio hardware
     - [MediaRecorder](https://developer.android.com/reference/android/media/MediaRecorder) - records encoded audio or video and saves the recording to an output file
@@ -105,6 +107,8 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 
 ## How-To Send Real-Time Audio
 
+Communications solutions...
+
 - **APIs**
     - [Dolby.io Communications API](https://dolby.io/products/voice-call/) - services with SDKs for adding audio and video conferencing and communications
     - [Dolby.io Streaming API](https://dolby.io/products/live-streaming/) - Millicast, acquired by Dolby, is now part of the Dolby.io platform. Millicast is a WebRTC-based real-time streaming service that enables sub-second latency, broadcast-quality color and sound, global scale, and end-to-end encryption
@@ -118,7 +122,9 @@ Software applications, tools, and APIs you can use to solve audio-related proble
     - [Soundflower](https://github.com/mattingalls/Soundflower) - MacOS system extension that allows applications to pass audio to other applications.
     - [BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern MacOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
 
-## How-To Transcribe Audio
+## How-To Transcribe Audio into Text
+
+Transcription solutions...
 
 - **APIs**
     - [AWS Transcribe](https://aws.amazon.com/transcribe/) - speech to text capabilities
@@ -138,6 +144,11 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 - **Python**
     - [PyKaldi](https://github.com/pykaldi/pykaldi) - Python scripting layer for the Kaldi speech recognition toolkit.
 
+## How-to Turn Text into Voice and Speech
+
+Speech synthesis solutions...
+
+- [Aflorithmic API.audio](https://www.api.audio/) - Simple APIs to transform text to speech, add sound design and make it sound beautiful at scale.
 
 ## How-To Visualize Audio
 
