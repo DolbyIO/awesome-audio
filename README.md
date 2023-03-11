@@ -133,7 +133,7 @@ Transcription solutions...
     - [Symbl.ai Transcription over WebSockets](https://docs.symbl.ai/docs/streamingapi/tutorials/receive-ai-insights-from-your-web-browser) - speech to text
     - [Rev](https://www.rev.com/speech-to-text-apis) - Convert Audio & Video To Text worked on by humans
         - [rev.ai](https://www.rev.ai/) - AI branch of Rev.com
-    - [Speechmatics](https://app.speechmatics.com/api-details) - Speechmatics offer a secure REST API that enables you to programatically upload audio files for processing with our different products and download the resulting transcriptions.
+    - [Speechmatics](https://speechmatics.com/) - The Most Accurate and Inclusive Speech Technology.
     - [Deepgram](https://deepgram.com/) - Build better voice applications with faster, more accurate transcription through AI Speech Recognition.
     - [Picovoice](https://picovoice.ai/) - Picovoice is the end-to-end platform for adding voice to anything on your terms.
     - [sonix](https://sonix.ai/) - Automated transcription in 35+ languages.
