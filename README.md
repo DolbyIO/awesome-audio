@@ -24,6 +24,7 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 - [How-To Send Real-Time Audio](#how-to-send-real-time-audio)
 - [How-To Transcribe Audio](#how-to-transcribe-audio)
 - [How-To Visualize Audio](#how-to-visualize-audio)
+- [How-to add Audio to your application](#how-to-add-Audio-to-your-application)
 
 
 ## How-To Analyze Audio
@@ -149,7 +150,6 @@ Transcription solutions...
 
 Speech synthesis solutions...
 
-- [Aflorithmic API.audio](https://www.api.audio/) - Simple APIs to transform text to speech, add sound design and make it sound beautiful at scale.
 - [Amazon Polly](https://aws.amazon.com/polly/) -  Turn text into lifelike speech using deep learning
 - [Google Cloud Text to Speech](https://cloud.google.com/text-to-speech) - Convert text into natural-sounding speech using an API powered by the best of Google’s AI technologies.
 - [Azure Text to Speech](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/) - A Speech service feature that converts text to lifelike speech
@@ -162,6 +162,10 @@ Speech synthesis solutions...
     - [getaudiogram.com](https://getaudiogram.com) - create engaging social video with audio visualizations
 - **JavaScript**
     - [Wavesurfer](https://wavesurfer-js.org/) - a customizable audio waveform visualization built on Web Audio API; supporting spectrograms and other features
+
+## How-to add Audio to your application
+You may want to add audio to your web app or mobile app, for this you'll need infrastructure
+- [Aflorithmic API.audio](https://www.api.audio/) - Simple APIs to transform text to speech, add sound design and make it sound beautiful at scale.
 
 ## Audio Plugin Development Tools
 - [JUCE](https://juce.com/) - JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.
